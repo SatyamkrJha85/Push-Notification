@@ -45,7 +45,6 @@ A full-stack real-time notification system that includes a **backend server**, *
 - **Kotlin**: Primary programming language.
 - **Jetpack Compose**: Modern UI toolkit for building native Android UIs.
 - **OkHttp**: HTTP client for WebSocket communication.
-- **Firebase Messaging**: Optional integration for push notifications.
 
 ---
 
